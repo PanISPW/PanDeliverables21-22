@@ -1,0 +1,33 @@
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  margin-bottom: 4rem;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  max-width: 75%;
+  height: auto;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+.carousel-caption {
+    background: rgba(128, 128, 128, 0.50);
+}
+
+
